@@ -78,15 +78,6 @@ Otonom araçlar · Sensör Füzyonu · Karar Verme Algoritmaları
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-| Aktivite | İstatistikler |
-|----------|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HilallAtes&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HilallAtes&layout=compact&theme=tokyonight&hide_border=true) |
-
----
-
 ## 📫 İletişim
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateshilal3344@gmail.com)
-![Location](https://img.shields.io/badge/Adana%2C%20Türkiye-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
