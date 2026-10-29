@@ -14,7 +14,8 @@ Otonom araçlar · Sensör Füzyonu · Karar Verme Algoritmaları
 
 Çukurova Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim ve **robotik ile otonom sistemler** alanında uzmanlaşmaya odaklanıyorum.
 
-- 🏆 **TEKNOFEST Robotaksi–Binek Otonom Araç Yarışması**'nda üst üste iki yıl (2025, 2026) **finalist** olan takımda aktif görev aldım
+- 🥈 **TEKNOFEST 2026 Robotaksi–Binek Otonom Araç Yarışması**'nda **Türkiye 2.si** olan takımda aktif görev aldım (2025'te de finalist)
+- 🔬 **TÜBİTAK 2247-C STAR** programı bursiyeri olarak LLM destekli görsel SLAM ve robot görev/hareket planlaması projesinde çalışıyorum
 - 🧠 Otonom araçlarda **karar verme**, **sensör füzyonu**, **konum doğruluğu** ve **navigasyon** alanlarında pratik deneyime sahibim
 - 🤖 C++, Python, ROS 2 ve simülasyon ortamlarında (CARLA, Gazebo) proje ve sanayi stajı deneyimim var
 - 🌍 İyi derecede İngilizce (**B2**) ile teknik literatürü takip ediyor ve geliştirmeler yapıyorum
@@ -58,12 +59,21 @@ Otonom araçlar · Sensör Füzyonu · Karar Verme Algoritmaları
 ## 💼 Deneyim & Projeler
 
 ### 🏁 TEKNOFEST Robotaksi–Binek Otonom Araç Yarışması
-**Robotik Yazılım Geliştirici** · `2025 – 2026` · **Finalist**
+**Robotik Yazılım Geliştirici** · `2025 – 2026` · 🥈 **2026 Türkiye 2.si** · 2025 Finalist
 
-- **2026 Dönemi:** Otonom araç için sensör füzyonu, konum doğruluğu (localization accuracy) ve karar verme algoritmaları üzerinde çalıştım. Araç navigasyonu için **ROS 2 Nav2** altyapısını entegre ettim.
+- **2026 Dönemi:** Otonom araç için sensör füzyonu, konum doğruluğu (localization accuracy) ve karar verme algoritmaları üzerinde çalıştım. **Çift EKF** mimarisiyle GPS/IMU füzyonu kurarak konumlanma hatasını **%30'lardan %3'e** düşürdüm. Araç navigasyonu için **ROS 2 Nav2** altyapısını entegre ettim. Takımımız yarışmayı **2.lik** ile tamamladı.
 - **2025 Dönemi:** Araç karar verme mekanizmalarının mimarisini ve karar algoritmalarının tasarımını gerçekleştirdim.
 - **Görüntü İşleme & Algılama:** Çevre algılama ve nesne tespiti süreçlerinde **OpenCV**'yi aktif olarak kullandım.
 - **Simülasyon:** Algoritma doğrulama ve test süreçlerini **Gazebo / CARLA** ortamlarında yürüttüm.
+
+### 🔬 TÜBİTAK 2247-C STAR — Stajyer Araştırmacı Bursiyeri
+`Ağustos 2026 – Nisan 2027` · Yürütücü: Dr. Öğr. Üyesi Barış Ata
+
+**Proje:** *Robot Görev ve Hareket Planlaması için Büyük Dil Modeli Destekli Görsel Eşzamanlı Konum Belirleme ve Haritalandırma (SLAM)*
+
+- Projenin **sensör füzyonu** ve **navigasyon** bileşenlerinin geliştirilmesinde görev alıyorum.
+- Görsel SLAM çıktılarını **IMU/odometri** ile füzyonlayarak konum kestirimi doğruluğu üzerinde çalışıyorum.
+- **LLM tabanlı görev ve hareket planlama** katmanını **ROS 2** navigasyon altyapısıyla entegre ediyorum.
 
 ### 🏭 Solvaytech — Robotik Yazılım Stajyeri
 
