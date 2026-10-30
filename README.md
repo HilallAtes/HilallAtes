@@ -15,7 +15,7 @@ Otonom araçlar · Sensör Füzyonu · Karar Verme Algoritmaları
 Çukurova Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim ve **robotik ile otonom sistemler** alanında uzmanlaşmaya odaklanıyorum.
 
 - 🥈 **TEKNOFEST 2026 Robotaksi–Binek Otonom Araç Yarışması**'nda **Türkiye 2.si** olan takımda aktif görev aldım (2025'te de finalist)
-- 🔬 **TÜBİTAK 2247-C STAR** programı bursiyeri olarak LLM destekli görsel SLAM ve robot görev/hareket planlaması projesinde çalışıyorum
+- 🔬 **TÜBİTAK 1001 STAR** programı bursiyeri olarak LLM destekli görsel SLAM ve robot görev/hareket planlaması projesinde çalışıyorum
 - 🧠 Otonom araçlarda **karar verme**, **sensör füzyonu**, **konum doğruluğu** ve **navigasyon** alanlarında pratik deneyime sahibim
 - 🤖 C++, Python, ROS 2 ve simülasyon ortamlarında (CARLA, Gazebo) proje ve sanayi stajı deneyimim var
 - 🌍 İyi derecede İngilizce (**B2**) ile teknik literatürü takip ediyor ve geliştirmeler yapıyorum
